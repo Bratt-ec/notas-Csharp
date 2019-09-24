@@ -1,0 +1,47 @@
+C:\Sexto A vesp\Portafolio .net\23_Enero_BD\23_Enero_BD\bin\Release\23_Enero_BD.exe.config
+C:\Sexto A vesp\Portafolio .net\23_Enero_BD\23_Enero_BD\bin\Release\23_Enero_BD.exe
+C:\Sexto A vesp\Portafolio .net\23_Enero_BD\23_Enero_BD\bin\Release\23_Enero_BD.pdb
+C:\Sexto A vesp\Portafolio .net\23_Enero_BD\23_Enero_BD\obj\Release\23_Enero_BD.csprojResolveAssemblyReference.cache
+C:\Sexto A vesp\Portafolio .net\23_Enero_BD\23_Enero_BD\obj\Release\_23_Enero_BD.Form1.resources
+C:\Sexto A vesp\Portafolio .net\23_Enero_BD\23_Enero_BD\obj\Release\_23_Enero_BD.Properties.Resources.resources
+C:\Sexto A vesp\Portafolio .net\23_Enero_BD\23_Enero_BD\obj\Release\23_Enero_BD.csproj.GenerateResource.Cache
+C:\Sexto A vesp\Portafolio .net\23_Enero_BD\23_Enero_BD\obj\Release\23_Enero_BD.exe
+C:\Sexto A vesp\Portafolio .net\23_Enero_BD\23_Enero_BD\obj\Release\23_Enero_BD.pdb
+C:\Sexto A vesp\Portafolio .net\23_Enero_BD\23_Enero_BD\obj\Release\_23_Enero_BD.curso.resources
+C:\Sexto A vesp\Portafolio .net\23_Enero_BD\23_Enero_BD\obj\Release\_23_Enero_BD.login.resources
+C:\Sexto A vesp\Portafolio .net\23_Enero_BD\23_Enero_BD\obj\Release\_23_Enero_BD.notas.resources
+C:\Sexto A vesp\Portafolio .net\23_Enero_BD\23_Enero_BD\obj\Release\_23_Enero_BD.BusquedaCurso.resources
+D:\Sexto A vesp\Portafolio .net\23_Enero_BD\23_Enero_BD\bin\Release\23_Enero_BD.exe.config
+D:\Sexto A vesp\Portafolio .net\23_Enero_BD\23_Enero_BD\obj\Release\23_Enero_BD.exe
+D:\Sexto A vesp\Portafolio .net\23_Enero_BD\23_Enero_BD\obj\Release\23_Enero_BD.pdb
+D:\Sexto A vesp\Portafolio .net\23_Enero_BD\23_Enero_BD\bin\Release\23_Enero_BD.exe
+D:\Sexto A vesp\Portafolio .net\23_Enero_BD\23_Enero_BD\bin\Release\23_Enero_BD.pdb
+D:\Sexto A vesp\Portafolio .net\23_Enero_BD\23_Enero_BD\obj\Release\23_Enero_BD.csprojResolveAssemblyReference.cache
+D:\Sexto A vesp\Portafolio .net\23_Enero_BD\23_Enero_BD\obj\Release\_23_Enero_BD.BusquedaCurso.resources
+D:\Sexto A vesp\Portafolio .net\23_Enero_BD\23_Enero_BD\obj\Release\_23_Enero_BD.curso.resources
+D:\Sexto A vesp\Portafolio .net\23_Enero_BD\23_Enero_BD\obj\Release\_23_Enero_BD.Form1.resources
+D:\Sexto A vesp\Portafolio .net\23_Enero_BD\23_Enero_BD\obj\Release\_23_Enero_BD.login.resources
+D:\Sexto A vesp\Portafolio .net\23_Enero_BD\23_Enero_BD\obj\Release\_23_Enero_BD.notas.resources
+D:\Sexto A vesp\Portafolio .net\23_Enero_BD\23_Enero_BD\obj\Release\_23_Enero_BD.Properties.Resources.resources
+D:\Sexto A vesp\Portafolio .net\23_Enero_BD\23_Enero_BD\obj\Release\23_Enero_BD.csproj.GenerateResource.Cache
+D:\Sexto A vesp\Portafolio .net\23_Enero_BD\23_Enero_BD\obj\Release\_23_Enero_BD.reporte.resources
+D:\Sexto A vesp\Portafolio .net\23_Enero_BD\23_Enero_BD\obj\Release\_23_Enero_BD.Reporte_Notas.resources
+D:\Sexto A vesp\Portafolio .net\23_Enero_BD\23_Enero_BD\obj\Release\_23_Enero_BD.Menu.resources
+D:\Sexto A vesp\Portafolio .net\23_Enero_BD\23_Enero_BD\obj\Release\_23_Enero_BD.ReporteCurso.resources
+D:\Sexto A vesp\Portafolio .net\23_Enero_BD\23_Enero_BD\obj\Release\_23_Enero_BD.BusquedaAlumno.resources
+D:\USB\23_Enero_BD\23_Enero_BD\bin\Release\23_Enero_BD.exe.config
+D:\USB\23_Enero_BD\23_Enero_BD\obj\Release\23_Enero_BD.exe
+D:\USB\23_Enero_BD\23_Enero_BD\obj\Release\23_Enero_BD.pdb
+D:\USB\23_Enero_BD\23_Enero_BD\obj\Release\23_Enero_BD.csprojResolveAssemblyReference.cache
+D:\USB\23_Enero_BD\23_Enero_BD\obj\Release\_23_Enero_BD.BusquedaAlumno.resources
+D:\USB\23_Enero_BD\23_Enero_BD\obj\Release\_23_Enero_BD.BusquedaCurso.resources
+D:\USB\23_Enero_BD\23_Enero_BD\obj\Release\_23_Enero_BD.curso.resources
+D:\USB\23_Enero_BD\23_Enero_BD\obj\Release\_23_Enero_BD.Form1.resources
+D:\USB\23_Enero_BD\23_Enero_BD\obj\Release\_23_Enero_BD.login.resources
+D:\USB\23_Enero_BD\23_Enero_BD\obj\Release\_23_Enero_BD.Menu.resources
+D:\USB\23_Enero_BD\23_Enero_BD\obj\Release\_23_Enero_BD.notas.resources
+D:\USB\23_Enero_BD\23_Enero_BD\obj\Release\_23_Enero_BD.Properties.Resources.resources
+D:\USB\23_Enero_BD\23_Enero_BD\obj\Release\_23_Enero_BD.reporte.resources
+D:\USB\23_Enero_BD\23_Enero_BD\obj\Release\_23_Enero_BD.ReporteCurso.resources
+D:\USB\23_Enero_BD\23_Enero_BD\obj\Release\_23_Enero_BD.Reporte_Notas.resources
+D:\USB\23_Enero_BD\23_Enero_BD\obj\Release\23_Enero_BD.csproj.GenerateResource.Cache
